@@ -1,4 +1,4 @@
-# ASAManagertest
+# ASAManager
 Ark Survival Ascended Dedicated Manager
 
 ## Overview
