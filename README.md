@@ -31,13 +31,7 @@ ASAManager is a simple utility to assist in managing and updating ARK: Survival 
    - ASA stores the last known good values for paths and settings.
    - Settings are loaded automatically on application start.
 
-4. **Join Our Community:**
-   - Join our [Discord](https://discord.gg/ce4VPBxxAC) for discussions, support, and updates.
-
-5. **Feedback and Issues:**
-   - For feedback or bug reports, please open an [issue](https://github.com/Limitspassed/ASAManager/issues).
-
-6. **Additional Configuration** - Editing start.bat
+4. **Additional Configuration** - Editing start.bat
    - After installing or updating your ARK server using ASAManager, it's crucial to fine-tune server-specific configurations. This involves editing the start.bat file located in your ARK server directory.
 
    - Navigate to Your ARK Server Directory:
